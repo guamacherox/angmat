@@ -1,0 +1,5 @@
+# Bower Components
+assets/libs/
+
+# logs
+*.log

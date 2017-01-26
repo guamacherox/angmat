@@ -1,0 +1,14 @@
+{
+  "name": "angmat",
+  "authors": [
+    "Juan Marval"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "angular": "^1.6.1",
+    "angular-material": "^1.1.1"
+  }
+}
