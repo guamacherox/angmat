@@ -1,0 +1,25 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  background-color: #fff;
+}
+
+
+.header{
+  background-color: #fff;
+  box-shadow: 1px 2px 3px rgba(0, 0, 0, .25);
+}
+
+.main{
+  background-color: #EAEAEA;
+}
+
+.main-color{
+  background-color: #1eb952;
+}
+
+.secondary-color{
+  background-color: #137d24;
+}
